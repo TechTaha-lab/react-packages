@@ -1,0 +1,13 @@
+{
+  "name": "e2e-testid",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Taha Kourani",
+  "type": "commonjs",
+  "main": "index.js",
+  "files":[]
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
