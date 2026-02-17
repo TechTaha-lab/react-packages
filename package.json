@@ -1,6 +1,6 @@
 {
   "name": "e2e-testid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small utility for stable and consistent data-testid generation for E2E testing.",
   "license": "ISC",
   "author": "Taha Kourani",
