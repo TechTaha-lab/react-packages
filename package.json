@@ -1,13 +1,35 @@
 {
   "name": "e2e-testid",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small utility for stable and consistent data-testid generation for E2E testing.",
   "license": "ISC",
   "author": "Taha Kourani",
   "type": "commonjs",
   "main": "index.js",
-  "files":[]
+  "keywords": [
+    "e2e",
+    "testing",
+    "testid",
+    "data-testid",
+    "playwright",
+    "cypress",
+    "selectors",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechTaha-lab/react-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TechTaha-lab/react-packages/issues"
+  },
+  "homepage": "https://github.com/TechTaha-lab/react-packages#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet\" && exit 0"
   }
 }
