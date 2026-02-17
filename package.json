@@ -6,6 +6,9 @@
   "author": "Taha Kourani",
   "type": "commonjs",
   "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
   "keywords": [
     "e2e",
     "testing",
@@ -29,6 +32,13 @@
     "README.md",
     "LICENSE"
   ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=14"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0"
   }
